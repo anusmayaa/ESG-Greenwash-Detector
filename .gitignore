@@ -7,7 +7,7 @@ outputs/
 logs/
 *.log
 mlflow.db
-esg-scorer-main/esg-scorer-main/models/climatebert-esg-scorer/model.safetensors
+esg-scorer-main/esg-scorer-main/models/climatebert-esg-scorer/
 esg-scorer-main/esg-scorer-main/models/climatebert-esg-scorer/optimizer.pt
 esg-scorer-main/esg-scorer-main/models/climatebert-esg-scorer/rng_state.pth
 esg-scorer-main/esg-scorer-main/models/climatebert-esg-scorer/scheduler.pt
